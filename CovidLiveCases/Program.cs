@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 namespace CovidLive
@@ -7,6 +7,10 @@ namespace CovidLive
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Gathered informations from - https://www.worldometers.info/coronavirus/");
+            Console.WriteLine("---------------------------------------------------------");
+
             while (true)
             {
 
