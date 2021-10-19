@@ -10,6 +10,7 @@ namespace CovidLive
 
             Console.WriteLine("Gathered informations from - https://www.worldometers.info/coronavirus/");
             Console.WriteLine("---------------------------------------------------------");
+            Console.WriteLine("Refreshing every 5 seconds.");
 
             while (true)
             {
